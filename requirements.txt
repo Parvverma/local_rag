@@ -1,0 +1,4 @@
+pymupdf==2.1
+ollama==0.6.3
+chromadb==1.5.9
+pillow==13.0.0
